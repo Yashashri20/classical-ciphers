@@ -23,7 +23,7 @@ Clean and simple web interface.
 
 🔧 How to Run
 
-Clone the repository:
+Clone the repository: https://github.com/Yashashri20/classical-ciphers.git
 
 Open index.html in your web browser.
 
