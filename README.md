@@ -35,8 +35,9 @@ Caesar Cipher
 
 Playfair Cipher
 
+Hill Cipher
+
 Affine Cipher
 
-
-📸 Screenshots
+Thank You for visiting us.
 
